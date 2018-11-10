@@ -25,7 +25,7 @@ Following steps assume that you have python3 installed and created a virtual env
 	In new teminal window run the app using
 		`python app.py`
 
-## Open your browser and browse: http://localhost:5000/ or http://127.0.0.1:5000/
+### Open your browser and browse: http://localhost:5000/ or http://127.0.0.1:5000/
 
 ### Sample Tests
 	Open a new window in virtual environment, then run tests using
