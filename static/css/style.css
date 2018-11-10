@@ -1,0 +1,9 @@
+#csrf_token {
+	margin-top: 30%;
+}
+
+#submit {
+	margin-top: 10px !important;
+    width: 50% !important;
+    text-align: center !important;
+}
